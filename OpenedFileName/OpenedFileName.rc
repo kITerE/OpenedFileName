@@ -1,0 +1,6 @@
+#include <windows.h>
+
+IDR_SYS             SYS             SYS_FILE
+#define VER_FILETYPE                VFT_APP
+#define VER_FILESUBTYPE             VFT2_UNKNOWN
+
